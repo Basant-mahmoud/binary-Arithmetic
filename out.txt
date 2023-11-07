@@ -1,0 +1,40 @@
+Orignal data is .........
+ABAA
+Frequancy of each character
+Key = A, Value = 3
+Key = B, Value = 1
+................................................
+lower Bound of each character
+Key = A, Value = 0.0
+Key = B, Value = 0.75
+................................................
+upper Bound of each character
+Key = A, Value = 0.75
+Key = B, Value = 1.0
+................................................
+number of digit we can store minimum probability is
+3
+smallest range is 
+0.25
+iteration number0
+0.0
+0.75
+number 1
+0.75
+1.0
+0.125
+0.5
+number 2
+0.0
+0.75
+0.25
+0.8125
+number 3
+0.0
+0.75
+0.25
+0.671875
+encoding data is..
+10100
+Data AFter Decoding is
+ABAA
